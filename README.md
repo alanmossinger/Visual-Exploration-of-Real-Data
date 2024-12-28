@@ -38,3 +38,5 @@ Targeted Hill Training:
 Practice hill repeats to improve strength and reduce heart rate response on inclines.
 Performance Plan Summary
 By implementing these strategies, Professor Brooks can boost endurance, adapt to varied terrains, and enhance pacing. This data-driven approach ensures a refined and progressively challenging workout routine tailored to his fitness goals.
+
+Thanks to Master of Applied Data Science at University of Michigan
